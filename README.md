@@ -9,7 +9,7 @@ This repository contains my submission for Assignment 2 (DA24M015), organized as
   - `train.py`: Training and evaluation script for Part A implementation
 
 - **partB**
-  - `dl-partB.ipynb`: Jupyter notebook containing the implementation and results for Part B
+  - `dl-partb.ipynb`: Jupyter notebook containing the implementation and results for Part B
   - `README.md`: Documentation specific to Part B
   - `train.py`: Training script for Part B implementation
 
