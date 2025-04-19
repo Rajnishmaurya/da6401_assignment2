@@ -95,6 +95,7 @@ for epoch in range(config.epochs):
     val_acc = 0
     val_loss = 0
 
+
     # Validation
     model.eval()
     with torch.no_grad():
