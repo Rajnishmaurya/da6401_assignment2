@@ -24,5 +24,5 @@ This submission includes the complete implementation of both parts of Assignment
 
 ## Links
 [Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)  
-[Github PartA](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partA)
+[Github PartA](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partA)  
 [Github PartB](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partB)
