@@ -84,5 +84,5 @@ After training, the model's performance will be displayed as final test accuracy
 
 
 ## Links
-[Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)
+[Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)  
 [Github](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partB)

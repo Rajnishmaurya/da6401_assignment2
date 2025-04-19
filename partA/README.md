@@ -122,5 +122,5 @@ After training, the best model configuration is saved to:
 - `best_hyperparameters.json`: Best hyperparameter configuration
 
 ## Links
-[Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)
+[Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)  
 [Github](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partA)
