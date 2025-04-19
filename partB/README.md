@@ -1,6 +1,6 @@
 # ResNet50 Fine-Tuning last K layers
 
-This repository contains code for fine-tuning a pre-trained ResNet50 model on the iNaturalist dataset. The project demonstrates transfer learning by freezing most of the ResNet50 layers and only training the last k layers for image classification.
+This repository contains code for fine-tuning a pre-trained ResNet50 model on the iNaturalist dataset. The assignment demonstrates transfer learning by freezing most of the ResNet50 layers and only training the last k layers for image classification.
 
 ## Assignment Overview
 
@@ -51,7 +51,6 @@ The main configuration parameters are:
 - `learning_rate`: 1e-4
 - `k`: 20 (number of layers to unfreeze)
 
-These can be modified through the wandb config object.
 
 ## Model Architecture
 

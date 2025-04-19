@@ -1,4 +1,4 @@
-# CNN Image Classification Project
+# CNN Image Classification Assignment
 
 This project implements a Convolutional Neural Network (CNN) for image classification on the iNaturalist dataset. It includes hyperparameter optimization using Weights & Biases (wandb) and model evaluation.
 
