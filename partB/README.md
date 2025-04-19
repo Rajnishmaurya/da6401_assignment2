@@ -2,7 +2,7 @@
 
 This repository contains code for fine-tuning a pre-trained ResNet50 model on the iNaturalist dataset. The project demonstrates transfer learning by freezing most of the ResNet50 layers and only training the last k layers for image classification.
 
-## Project Overview
+## Assignment Overview
 
 The code fine-tunes a pre-trained ResNet50 model on the iNaturalist_12K dataset, which contains nature images across 10 classes. The approach involves:
 
