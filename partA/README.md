@@ -120,3 +120,7 @@ The evaluation script generates visualization of model predictions for 3 random 
 After training, the best model configuration is saved to:
 - `best_model.pth`: Trained model weights
 - `best_hyperparameters.json`: Best hyperparameter configuration
+
+## Links
+[Wandb Report](https://api.wandb.ai/links/da24m015-iitm/4rain58f)
+[Github](https://github.com/Rajnishmaurya/da6401_assignment2/tree/main/partA)
