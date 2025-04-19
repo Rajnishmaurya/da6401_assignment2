@@ -13,7 +13,7 @@ The code fine-tunes a pre-trained ResNet50 model on the iNaturalist_12K dataset,
 
 ## Dataset
 
-The project uses the iNaturalist_12K dataset, which should be organized as follows:
+The assignment uses the iNaturalist_12K dataset, which should be organized as follows:
 ```
 /kaggle/inpuut/nature/inaturalist_12K
   /train  - Training images organized in class folders
